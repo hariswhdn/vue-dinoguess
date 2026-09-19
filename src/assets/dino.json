@@ -1,0 +1,1306 @@
+[
+  {
+    "name": "Aardonyx",
+    "id": 1
+  },
+  {
+    "name": "Abelisaurus",
+    "id": 2
+  },
+  {
+    "name": "Achelousaurus",
+    "id": 3
+  },
+  {
+    "name": "Achillobator",
+    "id": 4
+  },
+  {
+    "name": "Acrocanthosaurus",
+    "id": 5
+  },
+  {
+    "name": "Aegyptosaurus",
+    "id": 6
+  },
+  {
+    "name": "Afrovenator",
+    "id": 7
+  },
+  {
+    "name": "Agilisaurus",
+    "id": 8
+  },
+  {
+    "name": "Alamosaurus",
+    "id": 9
+  },
+  {
+    "name": "Albertaceratops",
+    "id": 10
+  },
+  {
+    "name": "Albertosaurus",
+    "id": 11
+  },
+  {
+    "name": "Alectrosaurus",
+    "id": 12
+  },
+  {
+    "name": "Alioramus",
+    "id": 13
+  },
+  {
+    "name": "Allosaurus",
+    "id": 14
+  },
+  {
+    "name": "Alvarezsaurus",
+    "id": 15
+  },
+  {
+    "name": "Amargasaurus",
+    "id": 16
+  },
+  {
+    "name": "Ammosaurus",
+    "id": 17
+  },
+  {
+    "name": "Ampelosaurus",
+    "id": 18
+  },
+  {
+    "name": "Amygdalodon",
+    "id": 19
+  },
+  {
+    "name": "Anchiceratops",
+    "id": 20
+  },
+  {
+    "name": "Anchiornis",
+    "id": 21
+  },
+  {
+    "name": "Anchisaurus",
+    "id": 22
+  },
+  {
+    "name": "Ankylosaurus",
+    "id": 23
+  },
+  {
+    "name": "Anserimimus",
+    "id": 24
+  },
+  {
+    "name": "Antarctosaurus",
+    "id": 25
+  },
+  {
+    "name": "Apatosaurus",
+    "id": 26
+  },
+  {
+    "name": "Aquilops",
+    "id": 27
+  },
+  {
+    "name": "Aragosaurus",
+    "id": 28
+  },
+  {
+    "name": "Aralosaurus",
+    "id": 29
+  },
+  {
+    "name": "Archaeoceratops",
+    "id": 30
+  },
+  {
+    "name": "Archaeopteryx",
+    "id": 31
+  },
+  {
+    "name": "Archaeornitho-mimus",
+    "id": 32
+  },
+  {
+    "name": "Argentinosaurus",
+    "id": 33
+  },
+  {
+    "name": "Arrhinoceratops",
+    "id": 34
+  },
+  {
+    "name": "Atlascopcosaurus",
+    "id": 35
+  },
+  {
+    "name": "Atrociraptor",
+    "id": 36
+  },
+  {
+    "name": "Aucasaurus",
+    "id": 37
+  },
+  {
+    "name": "Austrosaurus",
+    "id": 38
+  },
+  {
+    "name": "Avaceratops",
+    "id": 39
+  },
+  {
+    "name": "Avimimus",
+    "id": 40
+  },
+  {
+    "name": "Bactrosaurus",
+    "id": 41
+  },
+  {
+    "name": "Bagaceratops",
+    "id": 42
+  },
+  {
+    "name": "Bambiraptor",
+    "id": 43
+  },
+  {
+    "name": "Barapasaurus",
+    "id": 44
+  },
+  {
+    "name": "Barosaurus",
+    "id": 45
+  },
+  {
+    "name": "Baryonyx",
+    "id": 46
+  },
+  {
+    "name": "Becklespinax",
+    "id": 47
+  },
+  {
+    "name": "Beipiaosaurus",
+    "id": 48
+  },
+  {
+    "name": "Bellusaurus",
+    "id": 49
+  },
+  {
+    "name": "Borogovia",
+    "id": 50
+  },
+  {
+    "name": "Brachiosaurus",
+    "id": 51
+  },
+  {
+    "name": "Brachylopho-saurus",
+    "id": 52
+  },
+  {
+    "name": "Brachytrachelopan",
+    "id": 53
+  },
+  {
+    "name": "Buitreraptor",
+    "id": 54
+  },
+  {
+    "name": "Camarasaurus",
+    "id": 55
+  },
+  {
+    "name": "Camptosaurus",
+    "id": 56
+  },
+  {
+    "name": "Carcharodonto-saurus",
+    "id": 57
+  },
+  {
+    "name": "Carnotaurus",
+    "id": 58
+  },
+  {
+    "name": "Caudipteryx",
+    "id": 59
+  },
+  {
+    "name": "Cedarpelta",
+    "id": 60
+  },
+  {
+    "name": "Centrosaurus",
+    "id": 61
+  },
+  {
+    "name": "Ceratosaurus",
+    "id": 62
+  },
+  {
+    "name": "Cetiosauriscus",
+    "id": 63
+  },
+  {
+    "name": "Cetiosaurus",
+    "id": 64
+  },
+  {
+    "name": "Chaoyangsaurus",
+    "id": 65
+  },
+  {
+    "name": "Chasmosaurus",
+    "id": 66
+  },
+  {
+    "name": "Chindesaurus",
+    "id": 67
+  },
+  {
+    "name": "Chinshakiango-saurus",
+    "id": 68
+  },
+  {
+    "name": "Chirostenotes",
+    "id": 69
+  },
+  {
+    "name": "Chubutisaurus",
+    "id": 70
+  },
+  {
+    "name": "Chungkingosaurus",
+    "id": 71
+  },
+  {
+    "name": "Citipati",
+    "id": 72
+  },
+  {
+    "name": "Coelophysis",
+    "id": 73
+  },
+  {
+    "name": "Coelurus",
+    "id": 74
+  },
+  {
+    "name": "Coloradisaurus",
+    "id": 75
+  },
+  {
+    "name": "Compsognathus",
+    "id": 76
+  },
+  {
+    "name": "Concavenator",
+    "id": 77
+  },
+  {
+    "name": "Conchoraptor",
+    "id": 78
+  },
+  {
+    "name": "Confuciusornis",
+    "id": 79
+  },
+  {
+    "name": "Corythosaurus",
+    "id": 80
+  },
+  {
+    "name": "Cryolophosaurus",
+    "id": 81
+  },
+  {
+    "name": "Dacentrurus",
+    "id": 82
+  },
+  {
+    "name": "Daspletosaurus",
+    "id": 83
+  },
+  {
+    "name": "Datousaurus",
+    "id": 84
+  },
+  {
+    "name": "Deinocheirus",
+    "id": 85
+  },
+  {
+    "name": "Deinonychus",
+    "id": 86
+  },
+  {
+    "name": "Deltadromeus",
+    "id": 87
+  },
+  {
+    "name": "Dicraeosaurus",
+    "id": 88
+  },
+  {
+    "name": "Dilophosaurus",
+    "id": 89
+  },
+  {
+    "name": "Diplodocus",
+    "id": 90
+  },
+  {
+    "name": "Dracorex",
+    "id": 91
+  },
+  {
+    "name": "Dreadnoughtus",
+    "id": 92
+  },
+  {
+    "name": "Dromaeosaurus",
+    "id": 93
+  },
+  {
+    "name": "Dromiceiomimus",
+    "id": 94
+  },
+  {
+    "name": "Dryosaurus",
+    "id": 95
+  },
+  {
+    "name": "Dryptosaurus",
+    "id": 96
+  },
+  {
+    "name": "Dubreuillosaurus",
+    "id": 97
+  },
+  {
+    "name": "Edmontonia",
+    "id": 98
+  },
+  {
+    "name": "Edmontosaurus",
+    "id": 99
+  },
+  {
+    "name": "Einiosaurus",
+    "id": 100
+  },
+  {
+    "name": "Elaphrosaurus",
+    "id": 101
+  },
+  {
+    "name": "Emausaurus",
+    "id": 102
+  },
+  {
+    "name": "Enigmacursor",
+    "id": 103
+  },
+  {
+    "name": "Eolambia",
+    "id": 104
+  },
+  {
+    "name": "Eoraptor",
+    "id": 105
+  },
+  {
+    "name": "Eotyrannus",
+    "id": 106
+  },
+  {
+    "name": "Equijubus",
+    "id": 107
+  },
+  {
+    "name": "Erketu",
+    "id": 108
+  },
+  {
+    "name": "Erlikosaurus",
+    "id": 109
+  },
+  {
+    "name": "Euhelopus",
+    "id": 110
+  },
+  {
+    "name": "Euoplocephalus",
+    "id": 111
+  },
+  {
+    "name": "Europasaurus",
+    "id": 112
+  },
+  {
+    "name": "Eustrepto-spondylus",
+    "id": 113
+  },
+  {
+    "name": "Fukuiraptor",
+    "id": 114
+  },
+  {
+    "name": "Fukuisaurus",
+    "id": 115
+  },
+  {
+    "name": "Gallimimus",
+    "id": 116
+  },
+  {
+    "name": "Gargoyleosaurus",
+    "id": 117
+  },
+  {
+    "name": "Garudimimus",
+    "id": 118
+  },
+  {
+    "name": "Gasosaurus",
+    "id": 119
+  },
+  {
+    "name": "Gasparinisaura",
+    "id": 120
+  },
+  {
+    "name": "Gastonia",
+    "id": 121
+  },
+  {
+    "name": "Giganotosaurus",
+    "id": 122
+  },
+  {
+    "name": "Gigantoraptor",
+    "id": 123
+  },
+  {
+    "name": "Gilmoreosaurus",
+    "id": 124
+  },
+  {
+    "name": "Giraffatitan",
+    "id": 125
+  },
+  {
+    "name": "Gobisaurus",
+    "id": 126
+  },
+  {
+    "name": "Gorgosaurus",
+    "id": 127
+  },
+  {
+    "name": "Goyocephale",
+    "id": 128
+  },
+  {
+    "name": "Graciliceratops",
+    "id": 129
+  },
+  {
+    "name": "Gryposaurus",
+    "id": 130
+  },
+  {
+    "name": "Guaibasaurus",
+    "id": 131
+  },
+  {
+    "name": "Guanlong",
+    "id": 132
+  },
+  {
+    "name": "Hadrosaurus",
+    "id": 133
+  },
+  {
+    "name": "Hagryphus",
+    "id": 134
+  },
+  {
+    "name": "Haplocantho-saurus",
+    "id": 135
+  },
+  {
+    "name": "Harpymimus",
+    "id": 136
+  },
+  {
+    "name": "Herrerasaurus",
+    "id": 137
+  },
+  {
+    "name": "Hesperosaurus",
+    "id": 138
+  },
+  {
+    "name": "Heterodonto-saurus",
+    "id": 139
+  },
+  {
+    "name": "Heyuannia",
+    "id": 140
+  },
+  {
+    "name": "Homalocephale",
+    "id": 141
+  },
+  {
+    "name": "Huayangosaurus",
+    "id": 142
+  },
+  {
+    "name": "Hylaeosaurus",
+    "id": 143
+  },
+  {
+    "name": "Hypacrosaurus",
+    "id": 144
+  },
+  {
+    "name": "Hypsilophodon",
+    "id": 145
+  },
+  {
+    "name": "Iguanodon",
+    "id": 146
+  },
+  {
+    "name": "Indosuchus",
+    "id": 147
+  },
+  {
+    "name": "Irritator",
+    "id": 148
+  },
+  {
+    "name": "Isisaurus",
+    "id": 149
+  },
+  {
+    "name": "Janenschia",
+    "id": 150
+  },
+  {
+    "name": "Jaxartosaurus",
+    "id": 151
+  },
+  {
+    "name": "Jingshanosaurus",
+    "id": 152
+  },
+  {
+    "name": "Jinzhousaurus",
+    "id": 153
+  },
+  {
+    "name": "Jobaria",
+    "id": 154
+  },
+  {
+    "name": "Juravenator",
+    "id": 155
+  },
+  {
+    "name": "Kentrosaurus",
+    "id": 156
+  },
+  {
+    "name": "Khaan",
+    "id": 157
+  },
+  {
+    "name": "Kotasaurus",
+    "id": 158
+  },
+  {
+    "name": "Kritosaurus",
+    "id": 159
+  },
+  {
+    "name": "Lambeosaurus",
+    "id": 160
+  },
+  {
+    "name": "Lapparentosaurus",
+    "id": 161
+  },
+  {
+    "name": "Leaellynasaura",
+    "id": 162
+  },
+  {
+    "name": "Leptoceratops",
+    "id": 163
+  },
+  {
+    "name": "Lesothosaurus",
+    "id": 164
+  },
+  {
+    "name": "Liaoceratops",
+    "id": 165
+  },
+  {
+    "name": "Ligabuesaurus",
+    "id": 166
+  },
+  {
+    "name": "Liliensternus",
+    "id": 167
+  },
+  {
+    "name": "Lophorhothon",
+    "id": 168
+  },
+  {
+    "name": "Lophostropheus",
+    "id": 169
+  },
+  {
+    "name": "Lufengosaurus",
+    "id": 170
+  },
+  {
+    "name": "Lurdusaurus",
+    "id": 171
+  },
+  {
+    "name": "Lusotitan",
+    "id": 172
+  },
+  {
+    "name": "Lycorhinus",
+    "id": 173
+  },
+  {
+    "name": "Magyarosaurus",
+    "id": 174
+  },
+  {
+    "name": "Maiasaura",
+    "id": 175
+  },
+  {
+    "name": "Majungasaurus",
+    "id": 176
+  },
+  {
+    "name": "Malawisaurus",
+    "id": 177
+  },
+  {
+    "name": "Mamenchisaurus",
+    "id": 178
+  },
+  {
+    "name": "Mapusaurus",
+    "id": 179
+  },
+  {
+    "name": "Marshosaurus",
+    "id": 180
+  },
+  {
+    "name": "Masiakasaurus",
+    "id": 181
+  },
+  {
+    "name": "Massospondylus",
+    "id": 182
+  },
+  {
+    "name": "Maxakalisaurus",
+    "id": 183
+  },
+  {
+    "name": "Megalosaurus",
+    "id": 184
+  },
+  {
+    "name": "Melanorosaurus",
+    "id": 185
+  },
+  {
+    "name": "Metriacantho-saurus",
+    "id": 186
+  },
+  {
+    "name": "Microceratus",
+    "id": 187
+  },
+  {
+    "name": "Micropachy-cephalosaurus",
+    "id": 188
+  },
+  {
+    "name": "Microraptor",
+    "id": 189
+  },
+  {
+    "name": "Minmi",
+    "id": 190
+  },
+  {
+    "name": "Monolophosaurus",
+    "id": 191
+  },
+  {
+    "name": "Mononykus",
+    "id": 192
+  },
+  {
+    "name": "Mussaurus",
+    "id": 193
+  },
+  {
+    "name": "Muttaburrasaurus",
+    "id": 194
+  },
+  {
+    "name": "Nanshiungosaurus",
+    "id": 195
+  },
+  {
+    "name": "Nedoceratops",
+    "id": 196
+  },
+  {
+    "name": "Nemegtosaurus",
+    "id": 197
+  },
+  {
+    "name": "Neovenator",
+    "id": 198
+  },
+  {
+    "name": "Neuquensaurus",
+    "id": 199
+  },
+  {
+    "name": "Nigersaurus",
+    "id": 200
+  },
+  {
+    "name": "Nipponosaurus",
+    "id": 201
+  },
+  {
+    "name": "Noasaurus",
+    "id": 202
+  },
+  {
+    "name": "Nodosaurus",
+    "id": 203
+  },
+  {
+    "name": "Nomingia",
+    "id": 204
+  },
+  {
+    "name": "Nothronychus",
+    "id": 205
+  },
+  {
+    "name": "Nqwebasaurus",
+    "id": 206
+  },
+  {
+    "name": "Omeisaurus",
+    "id": 207
+  },
+  {
+    "name": "Opisthocoeli-caudia",
+    "id": 208
+  },
+  {
+    "name": "Ornitholestes",
+    "id": 209
+  },
+  {
+    "name": "Ornithomimus",
+    "id": 210
+  },
+  {
+    "name": "Orodromeus",
+    "id": 211
+  },
+  {
+    "name": "Oryctodromeus",
+    "id": 212
+  },
+  {
+    "name": "Othnielia",
+    "id": 213
+  },
+  {
+    "name": "Ouranosaurus",
+    "id": 214
+  },
+  {
+    "name": "Oviraptor",
+    "id": 215
+  },
+  {
+    "name": "Pachycephalo-saurus",
+    "id": 216
+  },
+  {
+    "name": "Pachyrhinosaurus",
+    "id": 217
+  },
+  {
+    "name": "Panoplosaurus",
+    "id": 218
+  },
+  {
+    "name": "Pantydraco",
+    "id": 219
+  },
+  {
+    "name": "Paralititan",
+    "id": 220
+  },
+  {
+    "name": "Parasaurolophus",
+    "id": 221
+  },
+  {
+    "name": "Parksosaurus",
+    "id": 222
+  },
+  {
+    "name": "Patagosaurus",
+    "id": 223
+  },
+  {
+    "name": "Patagotitan",
+    "id": 224
+  },
+  {
+    "name": "Pelecanimimus",
+    "id": 225
+  },
+  {
+    "name": "Pelorosaurus",
+    "id": 226
+  },
+  {
+    "name": "Pentaceratops",
+    "id": 227
+  },
+  {
+    "name": "Piatnitzkysaurus",
+    "id": 228
+  },
+  {
+    "name": "Pinacosaurus",
+    "id": 229
+  },
+  {
+    "name": "Plateosaurus",
+    "id": 230
+  },
+  {
+    "name": "Podokesaurus",
+    "id": 231
+  },
+  {
+    "name": "Poekilopleuron",
+    "id": 232
+  },
+  {
+    "name": "Polacanthus",
+    "id": 233
+  },
+  {
+    "name": "Prenocephale",
+    "id": 234
+  },
+  {
+    "name": "Probactrosaurus",
+    "id": 235
+  },
+  {
+    "name": "Proceratosaurus",
+    "id": 236
+  },
+  {
+    "name": "Pro-compsognathus",
+    "id": 237
+  },
+  {
+    "name": "Prosaurolophus",
+    "id": 238
+  },
+  {
+    "name": "Protarchaeopteryx",
+    "id": 239
+  },
+  {
+    "name": "Protoceratops",
+    "id": 240
+  },
+  {
+    "name": "Protohadros",
+    "id": 241
+  },
+  {
+    "name": "Psittacosaurus",
+    "id": 242
+  },
+  {
+    "name": "Puertasaurus",
+    "id": 243
+  },
+  {
+    "name": "Pyroraptor",
+    "id": 244
+  },
+  {
+    "name": "Quaesitosaurus",
+    "id": 245
+  },
+  {
+    "name": "Rajasaurus",
+    "id": 246
+  },
+  {
+    "name": "Rebbachisaurus",
+    "id": 247
+  },
+  {
+    "name": "Rhabdodon",
+    "id": 248
+  },
+  {
+    "name": "Rhoetosaurus",
+    "id": 249
+  },
+  {
+    "name": "Rinchenia",
+    "id": 250
+  },
+  {
+    "name": "Riojasaurus",
+    "id": 251
+  },
+  {
+    "name": "Rugops",
+    "id": 252
+  },
+  {
+    "name": "Saichania",
+    "id": 253
+  },
+  {
+    "name": "Saltasaurus",
+    "id": 254
+  },
+  {
+    "name": "Sarcosaurus",
+    "id": 255
+  },
+  {
+    "name": "Saurolophus",
+    "id": 256
+  },
+  {
+    "name": "Sauropelta",
+    "id": 257
+  },
+  {
+    "name": "Saurophaganax",
+    "id": 258
+  },
+  {
+    "name": "Saurornithoides",
+    "id": 259
+  },
+  {
+    "name": "Scelidosaurus",
+    "id": 260
+  },
+  {
+    "name": "Scutellosaurus",
+    "id": 261
+  },
+  {
+    "name": "Secernosaurus",
+    "id": 262
+  },
+  {
+    "name": "Segisaurus",
+    "id": 263
+  },
+  {
+    "name": "Segnosaurus",
+    "id": 264
+  },
+  {
+    "name": "Shamosaurus",
+    "id": 265
+  },
+  {
+    "name": "Shanag",
+    "id": 266
+  },
+  {
+    "name": "Shantungosaurus",
+    "id": 267
+  },
+  {
+    "name": "Shunosaurus",
+    "id": 268
+  },
+  {
+    "name": "Shuvuuia",
+    "id": 269
+  },
+  {
+    "name": "Silvisaurus",
+    "id": 270
+  },
+  {
+    "name": "Sinocalliopteryx",
+    "id": 271
+  },
+  {
+    "name": "Sinornithosaurus",
+    "id": 272
+  },
+  {
+    "name": "Sinosauropteryx",
+    "id": 273
+  },
+  {
+    "name": "Sinovenator",
+    "id": 274
+  },
+  {
+    "name": "Sinraptor",
+    "id": 275
+  },
+  {
+    "name": "Sonidosaurus",
+    "id": 276
+  },
+  {
+    "name": "Spicomellus",
+    "id": 277
+  },
+  {
+    "name": "Spinosaurus",
+    "id": 278
+  },
+  {
+    "name": "Staurikosaurus",
+    "id": 279
+  },
+  {
+    "name": "Stegoceras",
+    "id": 280
+  },
+  {
+    "name": "Stegosaurus",
+    "id": 281
+  },
+  {
+    "name": "Stenonychosaurus",
+    "id": 282
+  },
+  {
+    "name": "Stenopelix",
+    "id": 283
+  },
+  {
+    "name": "Struthiomimus",
+    "id": 284
+  },
+  {
+    "name": "Struthiosaurus",
+    "id": 285
+  },
+  {
+    "name": "Stygimoloch",
+    "id": 286
+  },
+  {
+    "name": "Styracosaurus",
+    "id": 287
+  },
+  {
+    "name": "Suchomimus",
+    "id": 288
+  },
+  {
+    "name": "Supersaurus",
+    "id": 289
+  },
+  {
+    "name": "Talarurus",
+    "id": 290
+  },
+  {
+    "name": "Tanius",
+    "id": 291
+  },
+  {
+    "name": "Tarbosaurus",
+    "id": 292
+  },
+  {
+    "name": "Tarchia",
+    "id": 293
+  },
+  {
+    "name": "Telmatosaurus",
+    "id": 294
+  },
+  {
+    "name": "Tenontosaurus",
+    "id": 295
+  },
+  {
+    "name": "Thecodontosaurus",
+    "id": 296
+  },
+  {
+    "name": "Therizinosaurus",
+    "id": 297
+  },
+  {
+    "name": "Thescelosaurus",
+    "id": 298
+  },
+  {
+    "name": "Torosaurus",
+    "id": 299
+  },
+  {
+    "name": "Torvosaurus",
+    "id": 300
+  },
+  {
+    "name": "Triceratops",
+    "id": 301
+  },
+  {
+    "name": "Troodon",
+    "id": 302
+  },
+  {
+    "name": "Tsagantegia",
+    "id": 303
+  },
+  {
+    "name": "Tsintaosaurus",
+    "id": 304
+  },
+  {
+    "name": "Tuojiangosaurus",
+    "id": 305
+  },
+  {
+    "name": "Tylocephale",
+    "id": 306
+  },
+  {
+    "name": "Tyrannosaurus",
+    "id": 307
+  },
+  {
+    "name": "Tyrannotitan",
+    "id": 308
+  },
+  {
+    "name": "Udanoceratops",
+    "id": 309
+  },
+  {
+    "name": "Unenlagia",
+    "id": 310
+  },
+  {
+    "name": "Urbacodon",
+    "id": 311
+  },
+  {
+    "name": "Utahraptor",
+    "id": 312
+  },
+  {
+    "name": "Valdosaurus",
+    "id": 313
+  },
+  {
+    "name": "Velociraptor",
+    "id": 314
+  },
+  {
+    "name": "Vulcanodon",
+    "id": 315
+  },
+  {
+    "name": "Yandusaurus",
+    "id": 316
+  },
+  {
+    "name": "Yangchuano-saurus",
+    "id": 317
+  },
+  {
+    "name": "Yimenosaurus",
+    "id": 318
+  },
+  {
+    "name": "Yingshanosaurus",
+    "id": 319
+  },
+  {
+    "name": "Yinlong",
+    "id": 320
+  },
+  {
+    "name": "Yuanmousaurus",
+    "id": 321
+  },
+  {
+    "name": "Yunnanosaurus",
+    "id": 322
+  },
+  {
+    "name": "Yutyrannus",
+    "id": 323
+  },
+  {
+    "name": "Zalmoxes",
+    "id": 324
+  },
+  {
+    "name": "Zephyrosaurus",
+    "id": 325
+  },
+  {
+    "name": "Zuniceratop",
+    "id": 326
+  }
+]
